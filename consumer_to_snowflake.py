@@ -10,9 +10,9 @@ TOPIC_NAME="clean_events"
 GROUP_ID = "snowflake-loader"
 
 snowflake_config= {
-    "user" : 'LAVI',
-    'password' : 'Snowflake12345',
-    'account' : 'ps83865.ap-southeast-1',
+    "user" : '#####',
+    'password' : '######',
+    'account' : '#########',
     'warehouse' : 'COMPUTE_WH',
     'database' : 'KAFKA_DB',
     'schema' : 'STREAMING'
